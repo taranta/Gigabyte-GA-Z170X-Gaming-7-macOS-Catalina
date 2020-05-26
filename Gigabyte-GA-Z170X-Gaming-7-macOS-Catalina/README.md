@@ -26,9 +26,9 @@
 - <a href="https://github.com/mattcarlotta">mattcarlotta</a> - generate SSDTs
 - <a href="https://github.com/CloverHackyColor/CloverBootloader/releases">CloverHackyColor
 </a> - Clover
-- <a href="http://mackie100projects.altervista.org">mackie100projects</a> Clover Configurator
+- <a href="https://mackie100projects.altervista.org/download-clover-configurator/">mackie100projects</a> Clover Configurator
 - <a href="https://github.com/acidanthera">Acidanthera</a> - AppleALC, Lilu & WhateverGreen
-- <a href="http://netkas.org">netkas</a> and <a href="https://github.com/kozlek">kozlek</a> - FakeSMC and HWSensors
+- <a href="https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/">RehabMan</a> - FakeSMC and HWSensors
 - <a href="https://github.com/Mieze">Mieze</a> - AtherosE2200Ethernet & IntelMausiEthernet 
 - <a href="http://www.insanelymac.com/forum/topic/313296-guide-mac-osx-1012-with-x99-broadwell-e-family-and-haswell-e-family/page-50#entry2349461">mfc88</a> - To understand what SSDT is
 - <a href="https://github.com/toleda">toleda</a> - onboard and HDMI audio
