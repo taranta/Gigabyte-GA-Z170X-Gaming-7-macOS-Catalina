@@ -9,11 +9,11 @@
 
 # -------------------------------------------------------
 - This study contains Clover folder in the EFI System Partition of SSD  and some advices
-- Clover 4061 is the current version
+- Clover 5118 is the current version
 - To customize your clover you can use <a href="http://mackie100projects.altervista.org">Clover Configurator</a>
 - You can follow some useful <a href="http://www.fitzweekly.com/2016/02/hackintosh-imessage-tutorial.html">articles</a>
  for generating SMBIOS serial numbers and SmUUID to fix Imessage and other icloud errors.
-- Clover 5118 is the current version
+
 
 - To customize your clover you can use <a href="http://mackie100projects.altervista.org">Clover Configurator</a> 
 
