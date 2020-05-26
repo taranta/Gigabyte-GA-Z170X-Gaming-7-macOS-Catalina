@@ -9,11 +9,11 @@
 
 # -------------------------------------------------------
 - This study contains Clover folder in the EFI System Partition of SSD  and some advices
-- Clover 4061 is the current version
+- Clover 5118 is the current version
 - To customize your clover you can use <a href="http://mackie100projects.altervista.org">Clover Configurator</a>
 - You can follow some useful <a href="http://www.fitzweekly.com/2016/02/hackintosh-imessage-tutorial.html">articles</a>
  for generating SMBIOS serial numbers and SmUUID to fix Imessage and other icloud errors.
-- Clover 5118 is the current version
+
 
 - To customize your clover you can use <a href="http://mackie100projects.altervista.org">Clover Configurator</a> 
 
@@ -24,37 +24,15 @@
 - <a href="https://github.com/theracermaster">theracermaster</a> - For inspiration
 - <a href="https://github.com/Piker-Alpha">Pike R. Alpha</a> - ssdtPRGen.sh
 - <a href="https://github.com/mattcarlotta">mattcarlotta</a> - generate SSDTs
-- <a href="https://sourceforge.net/u/slice2009/profile">Slice</a> - Clover
-- <a href="http://mackie100projects.altervista.org">mackie100projects</a> Clover Configurator
-- <a href="https://github.com/vit9696">vit9696</a> - AppleALC, Lilu & Shiki
-- <a href="http://netkas.org">netkas</a> and <a href="https://github.com/kozlek">kozlek</a> - FakeSMC and HWSensors
+- <a href="https://github.com/CloverHackyColor/CloverBootloader/releases">CloverHackyColor
+</a> - Clover
+- <a href="https://mackie100projects.altervista.org/download-clover-configurator/">mackie100projects</a> Clover Configurator
+- <a href="https://github.com/acidanthera">Acidanthera</a> - AppleALC, Lilu & WhateverGreen
+- <a href="https://bitbucket.org/RehabMan/os-x-fakesmc-kozlek/downloads/">RehabMan</a> - FakeSMC and HWSensors
 - <a href="https://github.com/Mieze">Mieze</a> - AtherosE2200Ethernet & IntelMausiEthernet 
 - <a href="http://www.insanelymac.com/forum/topic/313296-guide-mac-osx-1012-with-x99-broadwell-e-family-and-haswell-e-family/page-50#entry2349461">mfc88</a> - To understand what SSDT is
-- <a href="https://www.tonymacx86.com/threads/nvidia-releases-alternate-graphics-drivers-for-macos-sierra-10-12-4-378-05-05-05.218005/">tonymacx86</a> and <a href="https://www.tonymacx86.com/threads/solving-nvidia-driver-install-loading-problems.161256/">slim.jim</a> - Nvidia Web Drivers and Loading Problems
 - <a href="https://github.com/toleda">toleda</a> - onboard and HDMI audio
 - <a href="http://www.fitzweekly.com/2016/02/hackintosh-imessage-tutorial.html">Fitzsimmons Weekly</a> - iMessage Tutorial
-- <a href="https://github.com/RehabMan/OS-X-USB-Inject-All">RehabMan</a> USBInjectAll.kext and DSDT Patching
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
-
- 
- 
-
-
-
-
-
-
 
 
 
