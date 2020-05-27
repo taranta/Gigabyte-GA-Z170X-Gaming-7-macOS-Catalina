@@ -1,4 +1,4 @@
-# Custom-Mac for Gigabyte GA-Z170X Gaming 7 based Catalina 10.15.4
+# Custom-Mac for Gigabyte GA-Z170X Gaming 7 based Catalina 10.15.5
 
 # My hardware components:
  - Gigabyte GA-Z170X-Gaming 7 (rev 1.0) F22m Bios
