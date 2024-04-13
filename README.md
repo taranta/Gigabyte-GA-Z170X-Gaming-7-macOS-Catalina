@@ -15,7 +15,6 @@
  for generating SMBIOS serial numbers and SmUUID to fix Imessage and other icloud errors.
 
 
-- To customize your clover you can use <a href="http://mackie100projects.altervista.org">Clover Configurator</a> 
 
  - To Remove limit port patch Catalina simply visit to <a href="https://www.olarila.com/topic/4997-usb-raise-remove-limit-port-patch-el-capitan-sierra-high-sierra-mojave-catalina/"a>
 
